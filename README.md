@@ -1,6 +1,6 @@
-# PFM6
+# PFM6 - PROYECTO FINAL (Pedro Nina)
 
-This template should help get you started developing with Vue 3 in Vite.
+NFL SHOP  
 
 ## Recommended IDE Setup
 
