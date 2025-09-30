@@ -1,0 +1,79 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "productname": "Poleron hombre Buffalo Bills",
+      "productprice": 56990,
+      "productimage": "/images/products/1mens-fanatics-black-buffalo-bills-chip-shot-pullover-hoodie_ss5_p-202406605+u-6y9katvwtj3oppx2tagz+v-vs9yvax7pt6fdayidgz4.png",
+      "productstock": 19
+    },
+    {
+      "id": "2",
+      "productname": "Polera hombre Buffalo Bills",
+      "productprice": 27990,
+      "productimage": "/images/products/2mens-josh-allen-royal-buffalo-bills-icon-player-name-and-number-t-shirt_pi5249000_altimages_ff_5249595-e5b2f797944141e7b8a6alt1_full.png",
+      "productstock": 20
+    },
+    {
+      "id": "3",
+      "productname": "Polerón hombre Buffalo Bills",
+      "productprice": 53990,
+      "productimage": "/images/products/3mens-antigua-charcoal-buffalo-bills-brushed-carbon-victory-pullover-hoodie_ss5_p-202367957+pv-1+u-phlaiqxrptwxywpnsbnp+v-lx0vdm7qzpfjensrzeo9.png",
+      "productstock": 19
+    },
+    {
+      "id": "4",
+      "productname": "Gorra Buffalo Bills New Era",
+      "productprice": 24990,
+      "productimage": "/images/products/4 white-buffalo-bills-19twenty-adjustable-hat_ss5_p-202898181+pv-1+u-eahkqpnvw0dwg5jqqpch+v-5qtx05tlcncxa9jrehcw.png",
+      "productstock": 20
+    },
+    {
+      "id": "5",
+      "productname": "Chaqueta mujer Los Angeles Chargers",
+      "productprice": 62990,
+      "productimage": "/images/products/5 womens-wear-by-erin-andrews-white-los-angeles-chargers-full-snap-fleece-sweatshirt-jacket_ss5_p-202703780+pv-1+u-9y5azfeqq5w8cauzdmxx+v-ecxtslk9iohlyroynv4f.png",
+      "productstock": 20
+    },
+    {
+      "id": "6",
+      "productname": "Gorra Los Angeles Chargers New Era",
+      "productprice": 23990,
+      "productimage": "/images/products/6 mens-new-era-powder-blue-los-angeles-chargers-main-59fifty-fitted-hat_ss5_p-200014675+pv-1+u-dmsslgvnlaiusulnecrq+v-u0eoemh5udtbq03ss0xj.png",
+      "productstock": 20
+    },
+    {
+      "id": "7",
+      "productname": "Camisa Hombre Los Angeles Chargers",
+      "productprice": 47990,
+      "productimage": "/images/products/7mens-darius-rucker-collection-by-fanatics-black-los-angeles-chargers-flannel-plaid-full-snap-shirt_ss5_p-202789793+pv-1+u-05mfekedyypvydud3led+v-lutjkxcknz9pgoiqbcfa.png",
+      "productstock": 20
+    },
+    {
+      "id": "8",
+      "productname": "Gorra Philadelphia Eagles",
+      "productprice": 19990,
+      "productimage": "/images/products/8black-philadelphia-eagles-the-league-two-tone-9forty-adjustable-hat_ss5_p-200488173+pv-1+u-vagu9goe4asqilsqv0sq+v-hpwgqrepkdnwjskheb0p.png",
+      "productstock": 20
+    },
+    {
+      "id": "8",
+      "productname": "Polera hombre Philadelphia Eagles",
+      "productprice": 92990,
+      "productimage": "/images/products/9mens-nike-jalen-hurts-midnight-green-philadelphia-eagles-player-jersey_pi4277000_altimages_ff_4277482-825bde2b996982c75599alt1_full.png",
+      "productstock": 20
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "2",
+      "username": "Pedro",
+      "password": "Pedro"
+    }
+  ]
+}
