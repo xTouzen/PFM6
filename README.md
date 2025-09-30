@@ -2,28 +2,18 @@
 
 NFL SHOP  
 
-## Recommended IDE Setup
+## Login
+- Formulario de ingreso con validador
+- Los datos de ingreso se obtienen de db.json/users
+- credenciales: admin/admin o Pedro/Pedro
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Home
+- Grid de productos
+- Buscador en tiempo real
+- Modal para cada producto
 
-## Customize configuration
+## Cart
+- Visualizador de productos
+- Eliminación individual o completa de productos
+- Al comprar se rebaja el stock
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
